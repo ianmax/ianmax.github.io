@@ -1,0 +1,150 @@
+header {
+  display: inline-block;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  z-index: 2;
+  text-align: center;
+  vertical-align: middle;
+}
+
+nav {
+  vertical-align: middle;
+}
+
+body html {
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 40px;
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  color: #000;
+}
+
+p {
+  color: #000;
+}
+
+.navigation {
+  text-align:right;
+  padding: 10px 0;
+}
+
+.intro-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://2.bp.blogspot.com/-YYBGs4hkrd0/WQtk_nfgSkI/AAAAAAAAFQg/ckdzSlFv6_0BP7jvwe1fY3QdTCywSvZNgCLcB/s640/SP-IoT_Colorized.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 25%;
+    color: #000;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    align-items: center;
+}
+
+.intro-social-buttons {
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+.btn {
+      align-items: center;
+      display: inline-block;
+      color: #000;
+      border: 2px outset rgba(0, 0, 0, 0.9);
+      background: #C0C0C0;
+      text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+      box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+      letter-spacing: 2px;
+      transition: 0.2s;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background: url('https://4.bp.blogspot.com/-MX6CFtVdwuY/WQtlAZScKrI/AAAAAAAAFQk/ga5bFYjsTgUB90pFH_KgiKXj_-aoCWcPACLcB/s640/dreamstime_m_13180054.jpg')no-repeat center center fixed;
+    background-size: cover;
+    height: 25%;
+}
+
+.content-section-b {
+  padding: 50px 0;
+  background: url('https://68.media.tumblr.com/d3fd545cd977a174beef12c1106880bf/tumblr_nt505iKkul1ud7rr3o1_1280.jpg')no-repeat center center fixed;
+  background-size: cover;
+}
+
+section {
+  color: black;
+  text-align: center;
+  height: 25%;
+}
+
+.banner {
+    padding: 100px 0;
+    background: url('https://68.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg')no-repeat center center fixed;
+    background-size: cover;
+    height: 25%;
+    text-align: center;
+}
+
+.lead {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  font-family: fantasy;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+img {
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+}
+
+.link {
+  color: rgb(0, 0, 0);
+}
+
+section-heading {
+  text-align: center;
+}
+
+footer {
+  display: inline-block;
+  background-color: black;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+
+.link-footer {
+  color: #FFF;
+}
+
+.copyright {
+  color: #FFF;
+}
